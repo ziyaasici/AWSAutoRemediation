@@ -1,4 +1,4 @@
-# AWS Auto Remediation Project
+# AWS Auto Remediation w/Lambda Function Project
 This project simlates/automates remediation actions for AWS resources using AWS CloudFormation template, Lambda function, Auto Scaling groups, CloudWatch Alarms, and SNS topics.
 
 # Overview
